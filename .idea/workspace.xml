@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a3451a-a32a-4ecd-9460-1c6521a28508" name="Changes" comment="Added TO-Do list app using Node.js, Express.js And EJS">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Capstone Project 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Todo-list-app-using-EJS-and-Express" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -28,7 +25,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="a5ec9432-b0b5-45a7-87da-25d5e6c196ed" />
-        <option name="url" value="https://github.com/KrishKoria/To-Do-App.git" />
+        <option name="url" value="https://github.com/KrishKoria/To-Do-List.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -101,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701451191634</updated>
-      <workItem from="1701451192665" duration="2891000" />
+      <workItem from="1701451192665" duration="3361000" />
     </task>
     <task id="LOCAL-00001" summary="Added TO-Do list app using Node.js, Express.js And EJS">
       <option name="closed" value="true" />
@@ -111,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701453816718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added TO-Do list app using Node.js, Express.js And EJS">
+      <option name="closed" value="true" />
+      <created>1701454387060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701454387060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
